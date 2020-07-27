@@ -1,0 +1,7 @@
+C:\Users\Mica Podmuklica\source\repos\Agrivi-Algorithm\Agrivi-Algorithm\bin\Debug\Agrivi-Algorithm.exe.config
+C:\Users\Mica Podmuklica\source\repos\Agrivi-Algorithm\Agrivi-Algorithm\bin\Debug\Agrivi-Algorithm.exe
+C:\Users\Mica Podmuklica\source\repos\Agrivi-Algorithm\Agrivi-Algorithm\bin\Debug\Agrivi-Algorithm.pdb
+C:\Users\Mica Podmuklica\source\repos\Agrivi-Algorithm\Agrivi-Algorithm\obj\Debug\Agrivi-Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Mica Podmuklica\source\repos\Agrivi-Algorithm\Agrivi-Algorithm\obj\Debug\Agrivi-Algorithm.exe
+C:\Users\Mica Podmuklica\source\repos\Agrivi-Algorithm\Agrivi-Algorithm\obj\Debug\Agrivi-Algorithm.pdb
+C:\Users\Mica Podmuklica\source\repos\Agrivi-Algorithm\Agrivi-Algorithm\obj\Debug\Agrivi-Algorithm.csprojAssemblyReference.cache

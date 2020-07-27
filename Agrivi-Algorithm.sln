@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agrivi-Algorithm", "Agrivi-Algorithm\Agrivi-Algorithm.csproj", "{99C96269-4952-4FB9-9A34-1025B9E4F425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C96269-4952-4FB9-9A34-1025B9E4F425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C96269-4952-4FB9-9A34-1025B9E4F425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C96269-4952-4FB9-9A34-1025B9E4F425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C96269-4952-4FB9-9A34-1025B9E4F425}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AACBF1F-F436-4474-BB49-36D9B380D781}
+	EndGlobalSection
+EndGlobal
